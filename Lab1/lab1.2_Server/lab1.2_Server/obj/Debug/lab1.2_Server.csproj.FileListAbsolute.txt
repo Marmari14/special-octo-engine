@@ -1,0 +1,7 @@
+T:\Study\lab1.2_Server\lab1.2_Server\bin\Debug\lab1.2_Server.exe.config
+T:\Study\lab1.2_Server\lab1.2_Server\bin\Debug\lab1.2_Server.exe
+T:\Study\lab1.2_Server\lab1.2_Server\bin\Debug\lab1.2_Server.pdb
+T:\Study\lab1.2_Server\lab1.2_Server\obj\Debug\lab1.2_Server.csproj.AssemblyReference.cache
+T:\Study\lab1.2_Server\lab1.2_Server\obj\Debug\lab1.2_Server.csproj.CoreCompileInputs.cache
+T:\Study\lab1.2_Server\lab1.2_Server\obj\Debug\lab1.2_Server.exe
+T:\Study\lab1.2_Server\lab1.2_Server\obj\Debug\lab1.2_Server.pdb
